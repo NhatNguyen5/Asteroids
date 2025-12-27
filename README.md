@@ -1,7 +1,10 @@
-## Welcome to Bookbot
+# Build an Asteroids Game
 
-We're building Book Bot - a Python program that analyzes novels and prints a statistical report of the word and character usage found within. Our learning goals are to:
-- Configure a professional Python development environment on your local computer
-- Practice building a full project from scratch
-- Deploy a Python project on your personal GitHub account
-- Learn how to use a professional code editor (VS Code)
+We're going to build a simple video game, based on the classic Asteroids.
+
+## Prerequisites
+- Python 3.10+ installed (see the Bookbot project for help if you don't already have this)
+- The uv project/package manager
+- Access to a Unix-like shell (e.g., zsh or bash)
+
+The goal is not to teach game development or the math required for physics simulations. As a result, there are some places where you'll simply copy-paste code that we wrote for you. Don't worry about trying to understand every detail if it's not interesting to you; you will be asked to write the parts that matter most.
